@@ -1,0 +1,7 @@
+name,brand_name,generic_name,dosage_form,strength,manufacturer,salt_composition,is_generic
+Dolo 650,Dolo 650,Paracetamol,Tablet,650 mg,Micro Labs,Paracetamol,false
+Paracetamol 650,Paracetamol 650,Paracetamol,Tablet,650 mg,Generic,Paracetamol,true
+Crocin 650,Crocin 650,Paracetamol,Tablet,650 mg,GSK,Paracetamol,false
+Calpol 650,Calpol 650,Paracetamol,Tablet,650 mg,GSK,Paracetamol,false
+Combiflam,Combiflam,Ibuprofen + Paracetamol,Tablet,400 mg + 325 mg,Sanofi,Ibuprofen + Paracetamol,false
+Ibuprofen 400,Ibuprofen 400,Ibuprofen,Tablet,400 mg,Generic,Ibuprofen,true
